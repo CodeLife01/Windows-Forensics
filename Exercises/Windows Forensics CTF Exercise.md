@@ -14,7 +14,7 @@ Download the Kape collection and use your Windows VM to do the investigation a
 
 To complete the Forensics CTF you must download the Kape Triage Collection from this link:
 
-[Kape-Out-CTF.zip](Kape-Out-CTF.zip)
+[Kape-Out-CTF.7z](Kape_Out.7z)
 
 Once you have downloaded the Kape Triage Collection, unzip it and use the tools covered in the Windows Forensics section to answer the following questions. You can type your answers in the CTF Quiz in the next lesson.
 
